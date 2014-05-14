@@ -4,5 +4,5 @@ The Nixgon fonts (Korean : Nixgon Gothic, English: Nixgon Sans) are unicode font
 
 License
 ===========
-[OFL](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)
+
 
