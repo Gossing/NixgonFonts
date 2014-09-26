@@ -50,10 +50,7 @@ _ _ _
 _ _ _
 
 
-
-
-* * *
-
+## 닉스곤 폰트 전체 견본(Sample)
 _ _ _
 
 ![alt tag](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_fonts.jpg)
