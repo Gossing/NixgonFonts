@@ -22,9 +22,6 @@
 | NIXGONSANS    |   V1.0     |   OTF/TTF     |   Only English       |   L - Light / M - Middle / B - Bold     |
 | NIXGONSANS    |   V2.0     |   OTF/TTF     |   Only English       |   L - Light / M - Middle / B - Bold     |
 
-
-
-
 ## 닉스곤 폰트 한글(Nixgon Gothic) 특징
 
 닉스곤 폰트는 훈민정음의 각 자소에서 보여지는 간결하면서고 기하학전인 형태인 △ ○ □ 을 참고하여
@@ -34,22 +31,9 @@
 ![](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_img001.gif)
 ![](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_img002.gif)
 
-
-
-
 글자의 기본적인 구조는 고딕체에 속하나 자소의 모서리 부분을 모두 둥글게 표현을 하여 일반적인 고딕체의 경직된 이미지
 를 부드러운 이미지로 순화하였다.베이스 라인은 일정한 위치로 유지하여 전체적인 글자의 모양에 정돈감과 안정감이 있도록 제작하였다.
 ![](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_img003.gif)
-_ _ _
-
-
-
-
-* * *
-
-
-
-_ _ _
 
 ## 닉스곤 폰트 영문(Nixgon Sans) 특징
 
