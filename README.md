@@ -1,7 +1,4 @@
 # 닉스곤 폰트 (Nixgon Fonts)  README
-
-
-
 ```
 뛰어난 가독성에 명시성이 강조된 심플한 서체로 모바일에서도 뛰어난 시인성을 가진 닉스곤 폰트 
 
@@ -24,7 +21,7 @@
 | NIXGONGOTHIC  |   V2.0     |   OTF/TTF     |     Only Korean       |   L - Light / M - Middle / B- Bold     |
 | NIXGONSANS |   V1.0     |   OTF/TTF     |   Only English    |   L - Light / M - Middle / B- Bold     |
 | NIXGONSANS  |   V2.0     |   OTF/TTF     |   Only English     |   L - Light / M - Middle / B- Bold     |
-_ _ _
+
 
 
 
