@@ -1,7 +1,3 @@
-![alt tag](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_fonts.jpg)
-
-
-
 # 닉스곤 폰트 (Nixgon Fonts)  README
 
 
@@ -79,7 +75,7 @@ _ _ _
 
 _ _ _
 
-![](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_img006.gif)
+![alt tag](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_fonts.jpg)
 
 
 NixgonFonts
