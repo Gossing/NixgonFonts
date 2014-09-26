@@ -22,6 +22,10 @@
 | NIXGONSANS    |   V1.0     |   OTF/TTF     |   Only English       |   L - Light / M - Middle / B - Bold     |
 | NIXGONSANS    |   V2.0     |   OTF/TTF     |   Only English       |   L - Light / M - Middle / B - Bold     |
 
+* 동일한 family name으로 묶이고, 굵기별로 선택하여 사용할 수 있도록 제작
+* 글꼴이 family name 기준으로 묶이고 서브패밀리로 weight를 선택할 수 있게 하는 것은 온전히 응용프로그램의 기능으로 응용프로그램의 종류에 따라 지원되지 않는 것들이 있기 때문
+  * 기본적으로 Adobe CS 제품군은 위의 이미지와 같이 글꼴을 family name 별로 묶어주고 있으나 대부분의 MS Office 제품군은 글꼴을 family name별로 묶지 않고 개별적으로 보여주고 있습니다.
+
 ## 닉스곤 폰트 한글(Nixgon Gothic) 특징
 
 닉스곤 폰트는 훈민정음의 각 자소에서 보여지는 간결하면서고 기하학전인 형태인 △ ○ □ 을 참고하여
@@ -41,8 +45,6 @@
 
 ![](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_img004.gif)
 
----
-
 한글에서 적용된 자소의 모서리 부분을 둥글게 처리한 것과 획의 끝맺음 부분의 각도 등 
 여러가지 특징적 요소를 보조 글꼴에도 적용하여 한글과 보조 글꼴간의 조화로움을 강조하였다.
 
@@ -50,7 +52,6 @@
 
 
 ## 닉스곤 폰트 전체 견본(Sample)
----
 
 ![alt tag](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_fonts.jpg)
 
