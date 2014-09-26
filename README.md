@@ -41,17 +41,16 @@
 
 ![](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_img004.gif)
 
-_ _ _
+---
 
 한글에서 적용된 자소의 모서리 부분을 둥글게 처리한 것과 획의 끝맺음 부분의 각도 등 
 여러가지 특징적 요소를 보조 글꼴에도 적용하여 한글과 보조 글꼴간의 조화로움을 강조하였다.
 
 ![](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_img005.gif)
-_ _ _
 
 
 ## 닉스곤 폰트 전체 견본(Sample)
-_ _ _
+---
 
 ![alt tag](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_fonts.jpg)
 
