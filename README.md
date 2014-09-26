@@ -14,6 +14,7 @@
 ### 닉스곤 폰트 구성
 
 | Font | Version | Type | Feature | Division |
+|------|---------|------|---------|----------|
 | NIXGONFONTS   |   V1.0     |   OTF/TTF     |   Korean_English     |   L - Light / M - Middle / B - Bold     |
 | NIXGONFONTS   |   V2.0     |   OTF/TTF     |   Korean_English     |   L - Light / M - Middle / B - Bold     |
 | NIXGONGOTHIC  |   V1.0     |   OTF/TTF     |   Only Korean        |   L - Light / M - Middle / B - Bold     |
