@@ -1,11 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_fonts.jpg)
-
-
-
 # 닉스곤 폰트 (Nixgon Fonts)  README
-
-
-
 ```
 뛰어난 가독성에 명시성이 강조된 심플한 서체로 모바일에서도 뛰어난 시인성을 가진 닉스곤 폰트 
 
@@ -18,19 +11,20 @@
 
 ```
 
-### 닉스곤 폰트 구성
+## 닉스곤 폰트 구성
 
-| Font | version | type | feature | division |
-|--------|--------|--------|--------|
-| NIXGONFONTS  |   V1.0     |   OTF/TTF     |   Korean_English     |   L - Light  /  M - Middle  /  B- Bold     |
-| NIXGONFONTS  |   V2.0     |   OTF/TTF     |   Korean_English     |   L - Light / M - Middle / B- Bold     |
-| NIXGONGOTHIC  |   V1.0     |   OTF/TTF     |     Only Korean      |   L - Light / M - Middle / B- Bold     |
-| NIXGONGOTHIC  |   V2.0     |   OTF/TTF     |     Only Korean       |   L - Light / M - Middle / B- Bold     |
-| NIXGONSANS |   V1.0     |   OTF/TTF     |   Only English    |   L - Light / M - Middle / B- Bold     |
-| NIXGONSANS  |   V2.0     |   OTF/TTF     |   Only English     |   L - Light / M - Middle / B- Bold     |
-_ _ _
+| Font | Version | Type | Feature | Division |
+|------|---------|------|---------|----------|
+| NIXGONFONTS   |   V1.0     |   OTF/TTF     |   Korean_English     |   L - Light / M - Middle / B - Bold     |
+| NIXGONFONTS   |   V2.0     |   OTF/TTF     |   Korean_English     |   L - Light / M - Middle / B - Bold     |
+| NIXGONGOTHIC  |   V1.0     |   OTF/TTF     |   Only Korean        |   L - Light / M - Middle / B - Bold     |
+| NIXGONGOTHIC  |   V2.0     |   OTF/TTF     |   Only Korean        |   L - Light / M - Middle / B - Bold     |
+| NIXGONSANS    |   V1.0     |   OTF/TTF     |   Only English       |   L - Light / M - Middle / B - Bold     |
+| NIXGONSANS    |   V2.0     |   OTF/TTF     |   Only English       |   L - Light / M - Middle / B - Bold     |
 
-
+* 동일한 family name으로 묶이고, 굵기별로 선택하여 사용할 수 있도록 제작
+* 글꼴이 family name 기준으로 묶이고 서브패밀리로 weight를 선택할 수 있게 하는 것은 온전히 응용프로그램의 기능으로 응용프로그램의 종류에 따라 지원되지 않는 것들이 있기 때문
+  * 기본적으로 Adobe CS 제품군은 위의 이미지와 같이 글꼴을 family name 별로 묶어주고 있으나 대부분의 MS Office 제품군은 글꼴을 family name별로 묶지 않고 개별적으로 보여주고 있습니다.
 
 ## 닉스곤 폰트 한글(Nixgon Gothic) 특징
 
@@ -41,22 +35,9 @@ _ _ _
 ![](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_img001.gif)
 ![](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_img002.gif)
 
-
-
-
 글자의 기본적인 구조는 고딕체에 속하나 자소의 모서리 부분을 모두 둥글게 표현을 하여 일반적인 고딕체의 경직된 이미지
 를 부드러운 이미지로 순화하였다.베이스 라인은 일정한 위치로 유지하여 전체적인 글자의 모양에 정돈감과 안정감이 있도록 제작하였다.
 ![](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_img003.gif)
-_ _ _
-
-
-
-
-* * *
-
-
-
-_ _ _
 
 ## 닉스곤 폰트 영문(Nixgon Sans) 특징
 
@@ -64,22 +45,15 @@ _ _ _
 
 ![](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_img004.gif)
 
-_ _ _
-
 한글에서 적용된 자소의 모서리 부분을 둥글게 처리한 것과 획의 끝맺음 부분의 각도 등 
 여러가지 특징적 요소를 보조 글꼴에도 적용하여 한글과 보조 글꼴간의 조화로움을 강조하였다.
 
 ![](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_img005.gif)
-_ _ _
 
 
+## 닉스곤 폰트 전체 견본(Sample)
 
-
-* * *
-
-_ _ _
-
-![](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_img006.gif)
+![alt tag](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_fonts.jpg)
 
 
 NixgonFonts
