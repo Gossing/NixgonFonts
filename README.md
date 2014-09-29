@@ -53,7 +53,7 @@
 
 ## 닉스곤 폰트 전체 견본(Sample)
 
-![alt tag](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_fonts.jpg)
+![alt tag](https://raw.githubusercontent.com/nixgon/NixgonFonts/master/README/nixgon_font_2nd.jpg)
 
 
 NixgonFonts
